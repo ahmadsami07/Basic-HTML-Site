@@ -1,0 +1,21 @@
+body{
+   background-color:azure;
+}
+
+hr{
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  width:10%;
+}
+
+h1{
+  font-family: "Times New Roman", Times, serif;
+  color:darkslategray
+
+}
+
+h3
+{
+  color:#66BFBF
+}
